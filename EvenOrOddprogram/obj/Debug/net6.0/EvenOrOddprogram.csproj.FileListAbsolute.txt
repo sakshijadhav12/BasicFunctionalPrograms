@@ -1,0 +1,15 @@
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\bin\Debug\net6.0\EvenOrOddprogram.exe
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\bin\Debug\net6.0\EvenOrOddprogram.deps.json
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\bin\Debug\net6.0\EvenOrOddprogram.runtimeconfig.json
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\bin\Debug\net6.0\EvenOrOddprogram.dll
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\bin\Debug\net6.0\EvenOrOddprogram.pdb
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.csproj.AssemblyReference.cache
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.AssemblyInfoInputs.cache
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.AssemblyInfo.cs
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.csproj.CoreCompileInputs.cache
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.dll
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\refint\EvenOrOddprogram.dll
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.pdb
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\EvenOrOddprogram.genruntimeconfig.cache
+C:\Users\Dc\source\repos\EvenOrOddprogram\EvenOrOddprogram\obj\Debug\net6.0\ref\EvenOrOddprogram.dll
